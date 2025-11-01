@@ -6,6 +6,8 @@ Template: https://files.catbox.moe/wied8y.png
 
 Locate: Tl X 1171 | Tl y 1197 | Px X 858 | Px Y 201
 
+https://wplace.live/?lat=-29.121990891064588&lng=26.029950840527334&zoom=15.017069698063235
+
 my alliance: https://wplace.live/join?id=0198681b-fef4-7d70-85a8-e733ae24352d
 
 have fun ;)
